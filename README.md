@@ -7,7 +7,7 @@ This project is made for Homework of ELE489: Fundamentals of Machine Learning co
 - `data_banknote_authentication.txt`: Dataset used for training and testing.
 
 ## Dataset
-The dataset is dowloaed form [this site](https://archive.ics.uci.edu/dataset/267/banknote+authentication)
+The dataset is downloaded form [this site](https://archive.ics.uci.edu/dataset/267/banknote+authentication)
 
 ## Models
 We trained and compared different Decision Tree models using Gini and Entropy criteria.
